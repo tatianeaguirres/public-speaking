@@ -17,6 +17,13 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
+### Coming soon
+1 in total
+
+| Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
+|:-----------------:|----------------|---------------|----------|:--------:|
+| 20/07/2019 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-tdc4women) | Como criar uma aplicação utilizando React em poucos passos | [São Paulo / SP / Brazil](https://goo.gl/maps/RJfSE4rjEeXNydSn7) | :brazil: |
+
 ### Past presentations
 11 in total
 
@@ -41,11 +48,12 @@ The events are organized in reverse chronological order.
 
 | Date        | Event            | Role  |
 |:-----------:|------------------|:-----:|
+| 2019 | [The Developers Conference Diversity, Mobile and IoT Area - São Paulo](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference Diversity, Web and Mobile Area - Florianópolis](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference NodeJS Track - Florianópolis](http://www.thedevelopersconference.com.br) | Coordinator |
 | 2018 | [The Developers Conference Web / Mobile Area - Porto Alegre](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2018 | [The Developers Conference +Accessibility Area - São Paulo](http://www.thedevelopersconference.com.br) | Area Coordinator |
-| 2018 | [Rails Girls - Porton Alegre](http://railsgirls.com/portoalegre.html) | Organizer / Mentor |
+| 2018 | [Rails Girls - Porto Alegre](http://railsgirls.com/portoalegre.html) | Organizer / Mentor |
 | 2018 | [Aceleradora Inclusiva ThoughtWorks](http://www.aceleradorainclusiva.com.br/) | Organizer / Mentor |
 | 2018 | [Aceleradora Ágil ThoughtWorks](https://info.thoughtworks.com/aceleradora.html) | Organizer / Mentor |
 | 2018 | [The Developers Conference JavaScript Track - Florianópolis](http://www.thedevelopersconference.com.br) | Coordinator |
