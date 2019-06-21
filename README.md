@@ -13,16 +13,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (11)](#talks) | [Volunteer (12)](#volunteer) | [Videos (4)](#videos) | [Awards (1)](#awards)
-
-## Talks
-
-### Coming soon
-1 in total
-
-| Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
-|:-----------------:|----------------|---------------|----------|:--------:|
-| 20/07/2019 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-tdc4women) | Como criar uma aplicação utilizando React em poucos passos | [São Paulo / SP / Brazil](https://goo.gl/maps/RJfSE4rjEeXNydSn7) | :brazil: |
+[Talks (11)](#talks) | [Volunteer (16)](#volunteer) | [Videos (4)](#videos) | [Awards (1)](#awards)
 
 ### Past presentations
 11 in total
@@ -44,23 +35,26 @@ The events are organized in reverse chronological order.
 
 ## Volunteer
 
-12 in total
+16 in total
 
 | Date        | Event            | Role  |
 |:-----------:|------------------|:-----:|
 | 2019 | [The Developers Conference Diversity, Mobile and IoT Area - São Paulo](http://www.thedevelopersconference.com.br) | Area Coordinator |
+| 2019 | [The Developers Conference Mobile and IoT Area - Belo Horizonte](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference Diversity, Web and Mobile Area - Florianópolis](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference NodeJS Track - Florianópolis](http://www.thedevelopersconference.com.br) | Coordinator |
 | 2018 | [The Developers Conference Web / Mobile Area - Porto Alegre](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2018 | [The Developers Conference +Accessibility Area - São Paulo](http://www.thedevelopersconference.com.br) | Area Coordinator |
-| 2018 | [Rails Girls - Porto Alegre](http://railsgirls.com/portoalegre.html) | Organizer / Mentor |
-| 2018 | [Aceleradora Inclusiva ThoughtWorks](http://www.aceleradorainclusiva.com.br/) | Organizer / Mentor |
-| 2018 | [Aceleradora Ágil ThoughtWorks](https://info.thoughtworks.com/aceleradora.html) | Organizer / Mentor |
+| 2018 | [Rails Girls - Porto Alegre](http://railsgirls.com/portoalegre.html) | Organizer / Coach |
+| 2018 | [Aceleradora Inclusiva ThoughtWorks](http://www.aceleradorainclusiva.com.br/) | Organizer / Coach |
+| 2018 | [Aceleradora Ágil ThoughtWorks](https://info.thoughtworks.com/aceleradora.html) | Organizer / Coach |
 | 2018 | [The Developers Conference JavaScript Track - Florianópolis](http://www.thedevelopersconference.com.br) | Coordinator |
+| 2017 - 2019 | [The Developers Conference - São Paulo / Florianópolis / Porto Alegre / Belo Horizonte](http://www.thedevelopersconference.com.br) | Member of the Ethics Committee |
 | 2017 - 2018 | [The Developers Conference Web / Front-End Track - Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator |
-| 2017 - now | [The Developers Conference TDC4Women Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Founder / Coordinator |
+| 2017 - 2019 | [The Developers Conference TDC4Women Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Founder / Coordinator |
 | 2016 - 2018 | [The Developers Conference Mobile Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Blog](https://gumobilers.wordpress.com) | Organizer |
+| 2012 - 2015 | [COFAMEG (non-governmental organization)](https://cofameg-gravatai.webnode.com/) | IT Teacher for people with special needs |
 
 
 ## Videos
