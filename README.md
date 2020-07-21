@@ -1,8 +1,7 @@
 # Tatiane Event Calendar, Initiatives and Activities
 
-The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
-
-The events are organized in reverse chronological order.
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
+Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 
 ## My social networks
 
@@ -10,12 +9,32 @@ The events are organized in reverse chronological order.
 [![logo](https://i.imgur.com/HpCun4P.png)](http://www.linkedin.com/in/tatianeaguirres)
 [![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/TatianeAguirres1)
 
----
+## TOC
+* Talks
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>11</sup>](#past-presentations)
+* Initiatives
+   * [Volunteer & Community <sup>17</sup>](#volunteer--community)
+* Sharing knowledge
+   * [Blog posts and content <sup>1</sup>](#blog-posts-and-content) -- [Videos <sup>4</sup>](#videos)
+* [Awards & Recognitions <sup>1</sup>](#awards--recognitions)   
 
-[Talks (11)](#talks) | [Volunteer (16)](#volunteer) | [Videos (4)](#videos) | [Awards (1)](#awards)
+## Talks
+
+### Coming soon
+
+2 in total
+
+| Date | Event          | Title / Slide Deck  | Location | Language |
+|:----:|----------------|---------------------|----------|:--------:|
+| July, 23 | [The Developer Career Day, Code4.Life and Red Hat](https://hopin.to/events/dev-career-day-jully-2020) | Best practices to make your web application accessible | Online event | 🇺🇸 |
+| August, 24-26 | Meetup DevUmuarama 2020 | Tecnologias & Desafios: a Vida de um Front-ender na Europa | Online event | 🇧🇷 | 
+
+[⬆️ back to the top](#toc)
 
 ### Past presentations
 11 in total
+
+All the presentations I did in the past, ordered by date.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
@@ -31,13 +50,18 @@ The events are organized in reverse chronological order.
 | 13/04/2017 | [Aceleradora Ágil ThoughtWorks](https://info.thoughtworks.com/aceleradora.html) | [Front End x Back End](https://www.slideshare.net/TatianeAguirres1/front-end-x-back-end) |  | 🇧🇷 | 
 | 07/10/2016 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2016/portoalegre/trilha-mobile) | [Palestra "Ionic Framework 2 - O que vem por aí?"](https://www.slideshare.net/TatianeAguirres1/palestra-ionic-framework-2-o-que-vem-por-a-tdc-2016) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/tatianeaguirres/ionic-2-tdc2016) | 🇧🇷 | 
 
+[⬆️ back to the top](#toc)
 
-## Volunteer
+## Initiatives
 
-16 in total
+### Volunteer & Community
+17 in total
+
+Work for the IT community to help them, and me, to grown.
 
 | Date        | Event            | Role  |
 |:-----------:|------------------|:-----:|
+| 2020 | [The Developers Conference Web / Front-end Track - São Paulo](https://thedevconf.com/tdc/2020/sampaonline/trilha-web-e-front-end) | Coordinator |
 | 2019 | [The Developers Conference Diversity, Mobile and IoT Area - São Paulo](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference Mobile and IoT Area - Belo Horizonte](http://www.thedevelopersconference.com.br) | Area Coordinator |
 | 2019 | [The Developers Conference Diversity, Web and Mobile Area - Florianópolis](http://www.thedevelopersconference.com.br) | Area Coordinator |
@@ -55,10 +79,27 @@ The events are organized in reverse chronological order.
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Blog](https://gumobilers.wordpress.com) | Organizer |
 | 2012 - 2015 | [COFAMEG (non-governmental organization)](https://cofameg-gravatai.webnode.com/) | IT Teacher for people with special needs |
 
+#### Facts
+ * The Developers Conference is the largest IT event in Latin America with more than 20k attendees in five different cities in Brazil.
+ * The Developers Conference TDC4Women Track was created to increase diversity and female representation at the event, this track had 9 editions, and in 2019 we realized that it was no longer needed, as women already actively participate in all the event's tracks. Goal achieved!
 
-## Videos
+[⬆️ back to the top](#toc)
 
+## Sharing knowledge
+
+### Blog posts and content
+1 in total
+
+| Initiative name | Focus | Language |
+|-----------------|-------|:--------:|
+| [Personal blog in English](https://www.tatianeaguirres.com/) | Front-end Development posts | 🇺🇸 |
+
+[⬆️ back to the top](#toc)
+
+### Videos
 4 in total
+
+Videos about my presentations in events and interviews.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
@@ -67,11 +108,15 @@ The events are organized in reverse chronological order.
 | 2018 | [Como transformar um site desktop em uma aplicação responsiva com flex-box e media queries](https://www.youtube.com/watch?v=lvBpg2IO3wg) | QA Ladies São Paulo | 🇧🇷 |
 | 2017 | [Práticas para Melhorar o seu Desenvolvimento Front-End](https://www.youtube.com/watch?v=J5-mbzox5Tg&t=3051s) | QA Ladies Night | 🇧🇷 |
 
+[⬆️ back to the top](#toc)
 
-## Awards
-
+## Awards & Recognitions
 1 in total
+
+Recognition for working in the software development community.
 
 | Date | Award | Event |
 |:----:|-------|-------|
 | 2018 | [TDC RockStar](https://thedevconf.com/rockstar/TatianeAguirres) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
+
+[⬆️ back to the top](#toc)
