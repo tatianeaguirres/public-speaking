@@ -11,7 +11,7 @@ Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>11</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>12</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
@@ -32,12 +32,13 @@ Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-11 in total
+12 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 23/07/2020 | [The Developer Career Day, Code4.Life and Red Hat](https://hopin.to/events/dev-career-day-jully-2020) | [Best Practices to Make your Web Application Accessible](https://www.slideshare.net/TatianeAguirres1/best-practices-to-make-your-web-application-accessible-237196261) |  | 🇺🇸 | 
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | [How to create an architecture for a web test automation](https://www.slideshare.net/elias.nogueira/create-an-architecture-for-web-test-automation) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 | 
 | 29/09/2018 | [QA Ladies](http://www.qaladies.com/) | [Como transformar um site desktop em uma aplicação responsiva com flex-box e media queries](https://www.slideshare.net/TatianeAguirres1/como-transformar-um-site-desktop-em-uma-aplicao-responsiva) |  | 🇧🇷 | 
 | 26/09/2018 | [Aceleradora Ágil ThoughtWorks](https://info.thoughtworks.com/aceleradora.html) | [CSS: Tips, tricks and techniques](https://www.slideshare.net/TatianeAguirres1/css-123455005) |  | 🇧🇷 | 
