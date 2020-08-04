@@ -26,8 +26,7 @@ Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| July, 23 | [The Developer Career Day, Code4.Life and Red Hat](https://hopin.to/events/dev-career-day-jully-2020) | Best practices to make your web application accessible | Online event | 🇺🇸 |
-| August, 24-26 | Meetup DevUmuarama 2020 | Tecnologias & Desafios: a Vida de um Front-ender na Europa | Online event | 🇧🇷 | 
+| August, 25 | Meetup DevUmuarama 2020 | Tecnologias & Desafios: a Vida de uma Front-ender na Europa | Online event | 🇧🇷 | 
 
 [⬆️ back to the top](#toc)
 
