@@ -1,7 +1,6 @@
 # Tatiane Event Calendar, Initiatives and Activities
 
-The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
-Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general. Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 
 ## My social networks
 
@@ -11,22 +10,24 @@ Blog posts at: [https://tatianeaguirres.com](https://www.tatianeaguirres.com/)
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>12</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>12</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
-   * [Blog posts and content <sup>1</sup>](#blog-posts-and-content) -- [Videos <sup>4</sup>](#videos)
+   * [Blog posts and content <sup>2</sup>](#blog-posts-and-content) -- [Videos <sup>4</sup>](#videos)
 * [Awards & Recognitions <sup>1</sup>](#awards--recognitions)   
 
 ## Talks
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| August, 25 | Meetup DevUmuarama 2020 | Tecnologias & Desafios: a Vida de uma Front-ender na Europa | Online event | 🇧🇷 | 
+| August, 25 | [11ª Jornada Acadêmica e Empresarial - Faculdade Alfa](https://jornada.alfaumuarama.edu.br/) | Tecnologias & Desafios: a Vida de uma Front-ender na Europa | Online event | 🇧🇷 | 
+| August, 27 | [ The Future of Development Track - The Developers Conference International](https://thedevconf.com/tdc/2020/sampaonline/) | The Power of Semantic HTML | Online event | 🇺🇸 | 
+| August, 27 | [ Web / Front-end Track - The Developers Conference](https://thedevconf.com/tdc/2020/sampaonline/trilha-web-e-front-end) | Track Coordinator | Online event | 🇧🇷 | 
 
 [⬆️ back to the top](#toc)
 
@@ -88,11 +89,13 @@ Work for the IT community to help them, and me, to grown.
 ## Sharing knowledge
 
 ### Blog posts and content
-1 in total
+Manly blog posts in different websites and portals.
+2 in total
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
-| [Personal blog in English](https://www.tatianeaguirres.com/) | Front-end Development posts | 🇺🇸 |
+| [Personal blog in English](https://www.tatianeaguirres.com/blog) | Front-end Development posts | 🇺🇸 |
+| [Dev.to posts](https://dev.to/tatianeaguirres) | Front-end Development posts | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
