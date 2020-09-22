@@ -10,7 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>14</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>14</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
@@ -21,12 +21,11 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| August, 27 | [ The Future of Development Track - The Developers Conference International](https://thedevconf.com/tdc/2020/sampaonline/) | The Power of Semantic HTML | Online event | 🇺🇸 | 
-| August, 27 | [ Web / Front-end Track - The Developers Conference](https://thedevconf.com/tdc/2020/sampaonline/trilha-web-e-front-end) | Track Coordinator | Online event | 🇧🇷 | 
+| October, 28 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | 10 Dicas para Melhorar a Acessibilidade da sua Web App | Online event | 🇧🇷 | 
 
 [⬆️ back to the top](#toc)
 
@@ -128,10 +127,10 @@ Videos about my presentations in events and interviews.
 ## Awards & Recognitions
 1 in total
 
-Recognition for working in the software development community.
+Recognition for volunteer work in the software development community.
 
-| Date | Award | Event |
-|:----:|-------|-------|
-| 2018 | [TDC RockStar](https://thedevconf.com/rockstar/TatianeAguirres) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
+| Date | Award | Event | Location |
+|:----:|-------|-------|:--------:|
+| 2018 | [TDC RockStar](https://thedevconf.com/rockstar/TatianeAguirres) | [The Developers Conference](http://www.thedevelopersconference.com.br) | São Paulo, Brazil |
 
 [⬆️ back to the top](#toc)
