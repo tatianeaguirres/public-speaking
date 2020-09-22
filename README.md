@@ -14,7 +14,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
-   * [Blog posts and content <sup>2</sup>](#blog-posts-and-content) -- [eBooks <sup>1</sup>](#ebooks) -- [Videos <sup>4</sup>](#videos)
+   * [Blog posts and content <sup>2</sup>](#blog-posts-and-content) -- [eBooks <sup>1</sup>](#ebooks) -- [Videos <sup>2</sup>](#videos)
 * [Awards & Recognitions <sup>1</sup>](#awards--recognitions)   
 
 ## Talks
@@ -111,16 +111,14 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-4 in total
+2 in total
 
 Videos about my presentations in events and interviews.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
 | 2018 | [How to create an architecture for web test automation](https://www.youtube.com/watch?v=lrUoCD1yrnU) | Oracle CodeOne San Francisco | 🇺🇸 |
-| 2018 | [Como criar uma arquitetura para automação de teste da Web - Dicas](https://www.youtube.com/watch?v=HEIbsCkN0lI&t=2s) | Oracle CodeOne San Francisco | 🇧🇷 |
-| 2018 | [Como transformar um site desktop em uma aplicação responsiva com flex-box e media queries](https://www.youtube.com/watch?v=lvBpg2IO3wg) | QA Ladies São Paulo | 🇧🇷 |
-| 2017 | [Práticas para Melhorar o seu Desenvolvimento Front-End](https://www.youtube.com/watch?v=J5-mbzox5Tg&t=3051s) | QA Ladies Night | 🇧🇷 |
+| 2018 | [Como transformar um site desktop em uma aplicação responsiva com flex-box e media queries](https://youtu.be/lvBpg2IO3wg?t=3911) | QA Ladies São Paulo | 🇧🇷 |
 
 [⬆️ back to the top](#toc)
 
