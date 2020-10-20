@@ -10,7 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>14</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>14</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
@@ -26,6 +26,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | October, 28 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | 10 Dicas para Melhorar a Acessibilidade da sua Web App | Online event | 🇧🇷 | 
+| October, 28 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | Painel "Uma web para todos: a importância do Front-end na difusão de uma internet acessível para todas as pessoas" | Online event | 🇧🇷 | 
 
 [⬆️ back to the top](#toc)
 
@@ -94,7 +95,7 @@ Manly blog posts in different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
-| [Personal blog in English](https://www.tatianeaguirres.com/blog) | Front-end Development posts | 🇺🇸 |
+| [Blog posts](https://www.tatianeaguirres.com/blog) | Front-end Development posts | 🇺🇸 |
 | [Dev.to posts](https://dev.to/tatianeaguirres) | Front-end Development posts | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
@@ -106,7 +107,7 @@ Books and eBooks I've released.
 
 | Date | Type | Title | Language |
 |:----:|-------|-------|:--------:|
-| 2020 | eBook | [The Ultimate Checklist for Front-end Devs](https://mailchi.mp/d31d49412e89/the-ultimate-checklist-for-front-end-devs) | 🇺🇸 |
+| 2020 | eBook | [The Ultimate Checklist for Front-end Devs](https://www.tatianeaguirres.com/ebook) | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
