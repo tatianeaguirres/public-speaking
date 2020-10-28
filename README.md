@@ -10,7 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>14</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>15</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
@@ -31,12 +31,13 @@ The purpose of this repository is to consolidate in a single place all my partic
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-14 in total
+15 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 28/10/2020 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | [10 Dicas para Melhorar a Acessibilidade da sua Web App](https://www.slideshare.net/TatianeAguirres1/10-dicas-para-melhorar-a-acessibilidade-da-sua-web-app) |  | 🇧🇷 | 
 | 27/08/2020 | [ The Developers Conference World Edition](https://thedevconf.com/tdc/2020/sampaonline/) | [The Power of Semantic HTML](https://www.slideshare.net/TatianeAguirres1/the-power-of-semantic-html) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/tatianeaguirres/presentation-the-power-of-semantic-html) | 🇺🇸 | 
 | 25/08/2020 | [11ª Jornada Acadêmica e Empresarial - Faculdade Alfa](https://jornada.alfaumuarama.edu.br/) | [Tecnologias & Desafios: a Vida de uma Front-ender na Europa](https://www.slideshare.net/TatianeAguirres1/tecnologias-desafios-a-vida-de-uma-frontender-na-europa) |  | 🇧🇷 | 
 | 23/07/2020 | [The Developer Career Day, Code4.Life and Red Hat](https://hopin.to/events/dev-career-day-jully-2020) | [Best Practices to Make your Web Application Accessible](https://www.slideshare.net/TatianeAguirres1/best-practices-to-make-your-web-application-accessible-237196261) |  | 🇺🇸 | 
