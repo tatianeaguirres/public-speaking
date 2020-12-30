@@ -10,7 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>15</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>15</sup>](#past-presentations)
 * Initiatives
    * [Volunteer & Community <sup>17</sup>](#volunteer--community)
 * Sharing knowledge
@@ -21,12 +21,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-1 in total
-
-| Date | Event          | Title / Slide Deck  | Location | Language |
-|:----:|----------------|---------------------|----------|:--------:|
-| October, 28 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | 10 Dicas para Melhorar a Acessibilidade da sua Web App | Online event | 🇧🇷 | 
-| October, 28 | [ Web / Front-end Track - The Developers Conference Recife](https://thedevconf.com/tdc/2020/recifeonline/trilha-web-front-end) | Painel "Uma web para todos: a importância do Front-end na difusão de uma internet acessível para todas as pessoas" | Online event | 🇧🇷 | 
+No upcoming talks
 
 [⬆️ back to the top](#toc)
 
